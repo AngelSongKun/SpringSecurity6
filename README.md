@@ -159,4 +159,5 @@ public class SecurityConfig {
 
 SpringSecurity整体入门还是比较简单的，只要理清是在哪个方面进行安全防护即。SpringSecurity的原理就是自定义Filter过滤器，将每次请求进行判断是否符合预期，若不符合预期则进行拦截，若符合预期则进行放行。以下是我对SpringSecurity的理解流程图。
 
-![image-20250624220841004](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250624220841004.png)
+![image](https://github.com/user-attachments/assets/afe28942-b0c9-4c77-a363-f908ee4abb77)
+
